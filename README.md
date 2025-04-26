@@ -1,8 +1,10 @@
 # Exno.4-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 ### DATE: 23.04.2025                                                                     
 ### REGISTER NUMBER : 212223040021
-### Aim: Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-### Algorithm:  The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation
+### Aim: 
+Scenario-Based Report Development Utilizing Diverse Prompting Techniques
+### Algorithm:  
+The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation
 
 ### Prompting Techniques by Stage
 #### 1. Experiment Design
