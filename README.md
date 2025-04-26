@@ -77,12 +77,9 @@ Ask the AI to critique its own response and offer a better one.
 “Based on feedback, suggest 3 improvements.”
 
 #### Experiment Workflow Table:
-Stage | Prompt Type | Purpose
-Scenario Design | Role, Scenario, Few-Shot | Build realistic conversations
-Data Collection | Survey, Follow-Up | Capture user needs and chatbot limitations
-Model Training | Instruction, Chain-of-Thought | Improve intent handling and task flow
-Evaluation | Zero-Shot, Reflexive | Assess performance on new queries and self-review
-Report Generation | Persona, Comparative | Present results to stakeholders and improve design
+
+![image](https://github.com/user-attachments/assets/940f09bf-80b3-4574-bb6d-e12385ca47c8)
+
 #### Findings:
 User Needs Identified
 Prompt Techniques Effectiveness
