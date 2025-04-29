@@ -55,11 +55,11 @@ Verbose Prompt	60% useful data	Low
 Concise Prompt	95% useful data	High
 
 
-#### Conclusion:
+### Conclusion:
 By applying Comparative Analysis, Scenario Testing, and Optimized Prompt Sizing, the system achieved:
 30% reduction in unplanned downtime
 92% prediction accuracy for critical failures
 25% faster maintenance response times
 
-# Result:
+## Result:
 Thus the Prompts were exected succcessfully .
