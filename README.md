@@ -36,7 +36,9 @@ Prompt: "An industrial motor shows rising temperature readings. Generate step-by
 Challenge: Overly verbose prompts reduce model focus.
 
 Example:
+
 ❌ "Explain all possible factors causing bearing failures in CNC machines, including material fatigue, lubrication issues, alignment problems, and operational load cycles..."
+
 ✅ "Top 3 causes of CNC bearing failures with mitigation steps."
 
 #### Output:
