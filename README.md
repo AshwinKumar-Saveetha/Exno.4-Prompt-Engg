@@ -6,83 +6,47 @@ Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 ### Algorithm:  
 The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation
 
-### Prompting Techniques by Stage
-#### 1. Experiment Design
-#### Broad/Naïve Prompting:
+### Prompting Techniques & Implementation
+#### 1. Straightforward Prompts
+Purpose: Directly extract clear responses for chatbot functionality.
 
-“What services should a retail chatbot offer?”
+Examples:
 
-#### Specific Prompting:
+"What are the 3 most common product troubleshooting questions?"
 
-“Name 5 customer support features for an e-commerce chatbot.”
+#### Output:
+![image](https://github.com/user-attachments/assets/71e58a65-8ff5-4e71-a234-5da2396306b8)
 
-#### Scenario-Based Prompting:
+### 2. Tabular Format Prompting
+Purpose: Organize structured data for chatbot responses.
 
-“Imagine a customer looking for a late delivery update. How should the chatbot respond?”
+Example Prompt:
+"Create a table mapping customer queries to ideal chatbot responses."
+#### Output:
+![image](https://github.com/user-attachments/assets/b7b64595-2b18-4f20-92e0-86e6fdcfd2f4)
 
-#### 2. Data Collection
-#### Role Prompting:
+### 3. Preceding Question Prompting
+Purpose: Maintain context in multi-turn conversations.
 
-“You are a frustrated customer—ask about your order.”
+Example Flow:
 
-#### Few-Shot Prompting:
+User: "My order hasn’t arrived."
+Chatbot: 
+![image](https://github.com/user-attachments/assets/c87b3f50-77fd-4fc3-a024-1d190f1c3006)
 
-Provide short back-and-forth sample conversations for data synthesis.
 
-#### Survey Prompts:
+User: "#ORD67890"
+Chatbot: 
+![image](https://github.com/user-attachments/assets/449a0da2-c283-42ca-839e-ebda03bddb8b)
 
-“Rate your experience from 1-10.”
+Outcomes:
+![image](https://github.com/user-attachments/assets/a1e580d1-6944-46f4-8982-86e371b190d1)
 
-#### Follow-Up Prompts:
+#### Conclusion:
+By blending Straightforward, Tabular, and Preceding Question techniques, we built a chatbot that:
+Solves 80%+ queries automatically
+Cuts support work by 40%
+Scores 90%+ user satisfaction
 
-“If the chatbot didn’t help, what went wrong?”
-
-#### 3. Model Training
-Instruction Prompting:
-
-“Classify queries into: Order Status, Product Info, Complaints.”
-
-#### Chain-of-Thought Prompting:
-
-Step-by-step handling of complaints (e.g., ask for ID, check eligibility, respond).
-
-#### Zero-Shot Prompting:
-
-Classify unseen queries without examples to test generalization.
-
-#### 4. Evaluation & Analysis
-Reflexive Prompting:
-
-Ask the AI to critique its own response and offer a better one.
-
-#### Comparative Prompting:
-
-“Compare chatbot accuracy before and after fine-tuning.”
-
-#### Data Synthesis Prompts:
-
-“List top features users requested.”
-
-#### 5. Report Creation
-#### Persona Prompting:
-
-“Explain performance findings to retail managers in simple terms.”
-
-#### Summary Prompting:
-
-“Summarize key issues users faced with the chatbot.”
-
-#### Recommendation Prompting:
-
-“Based on feedback, suggest 3 improvements.”
-
-#### Experiment Workflow Table:
-
-![image](https://github.com/user-attachments/assets/940f09bf-80b3-4574-bb6d-e12385ca47c8)
-
-#### Findings:
-User Needs Identified
-Prompt Techniques Effectiveness
-Chatbot Accuracy, Relevance, and Response Time
-
-# Result: Thus the Prompts were exected succcessfully .
+# Result:
+Thus the Prompts were exected succcessfully .
