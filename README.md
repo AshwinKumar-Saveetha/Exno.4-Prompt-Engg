@@ -32,14 +32,18 @@ Example Flow:
 
 User: "My order hasn’t arrived."
 Chatbot: 
+
 ![image](https://github.com/user-attachments/assets/c87b3f50-77fd-4fc3-a024-1d190f1c3006)
 
 
 User: "#ORD67890"
 Chatbot: 
+
 ![image](https://github.com/user-attachments/assets/449a0da2-c283-42ca-839e-ebda03bddb8b)
 
+
 Outcomes:
+
 ![image](https://github.com/user-attachments/assets/a1e580d1-6944-46f4-8982-86e371b190d1)
 
 #### Conclusion:
